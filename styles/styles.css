@@ -9,9 +9,9 @@ body {
 }
 
 main {
-    height: 100vh;
-    display: flex;
     align-items: center;
+    display: flex;
+    height: 100vh;
 }
 
 .main-card-container {
