@@ -1,3 +1,3 @@
 # challege-card-music
 Reto diseñando una tarjeta para practicar HTML y CSS.
-![alt text](http://url/to/Captura_final.PNG)
+![Captura final de la tarjeta](https://raw.githubusercontent.com/username/projectname/branch/path/to/Captura_final.PNG)
